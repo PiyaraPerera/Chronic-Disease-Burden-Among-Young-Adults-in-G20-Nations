@@ -30,4 +30,6 @@ The dashboard includes:
 
 The analysis shows that countries with higher healthcare access tend to have lower mortality rates among young adults. Socioeconomic factors such as income and education also influence health outcomes, while treatment costs vary significantly across G20 nations.
 
-<img width="1273" height="731" alt="image" src="https://github.com/user-attachments/assets/ab2a1387-9cf8-47b8-b333-5ae70cca3087" />
+<img width="1277" height="728" alt="image" src="https://github.com/user-attachments/assets/2b974b3f-4c72-413c-ba9c-2e223323582b" />
+
+
